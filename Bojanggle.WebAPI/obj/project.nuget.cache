@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gob8Pk66Gl7lqSfzO2lwdsFg8DP75NALM0G79vi5gmaMR/iuqveDtZXVZIAt0fOVhFK3gI8ug2hyrl8TLBXPIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bojan\\source\\repos\\Bojanggle\\Bojanggle.WebAPI\\Bojanggle.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bojan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
